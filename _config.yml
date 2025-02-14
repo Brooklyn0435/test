@@ -1,0 +1,19 @@
+title: My Awesome Website
+description: A description of my amazing website.
+url: "https://www.myawesomewebsite.com" # Your website's URL
+baseurl: "" # For subdirectory websites, e.g., "/blog"
+author:
+  name: Your Name
+  email: your-email@example.com
+theme: jekyll-theme-slate # Example theme, you can change it or use your custom one
+
+# Optional settings
+social_links:
+  twitter: "https://twitter.com/yourprofile"
+  github: "https://github.com/yourprofile"
+
+# For Google Analytics
+google_analytics: UA-XXXXXXXXX-X
+
+# For Permalinks settings
+permalink: /:year/:month/:day/:title/
